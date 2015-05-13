@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1431395599 source:c:\c_cpp\vclass\projects\circuit\main.cpp
+	<iostream>
+	"Circuit.h"
+	"Button.h"
+	"Lamp.h"
+
+1431396240 c:\c_cpp\vclass\projects\circuit\include\circuit.h
+	"Button.h"
+	"App.h"
+
+1431396227 c:\c_cpp\vclass\projects\circuit\include\button.h
+	"Circuit.h"
+
+1431394689 c:\c_cpp\vclass\projects\circuit\include\app.h
+
+1431395451 c:\c_cpp\vclass\projects\circuit\include\lamp.h
+	"App.h"
+
+1431394687 source:c:\c_cpp\vclass\projects\circuit\src\app.cpp
+	"App.h"
+
+1431396206 source:c:\c_cpp\vclass\projects\circuit\src\button.cpp
+	"Button.h"
+
+1431396178 source:c:\c_cpp\vclass\projects\circuit\src\circuit.cpp
+	"Circuit.h"
+
+1431396298 source:c:\c_cpp\vclass\projects\circuit\src\lamp.cpp
+	<iostream>
+	"Lamp.h"
+
+1431396467 source:c:\c_cpp\vclass\projects\circuit\src\fan.cpp
+	<iostream>
+	"Fan.h"
+
+1431396467 c:\c_cpp\vclass\projects\circuit\include\fan.h
+	"App.h"
+
